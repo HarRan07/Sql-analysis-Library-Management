@@ -1,3 +1,1 @@
-%sql
-USE CATALOG workspace;
-USE SCHEMA default;
+Analyzing tables in format of Questions and answers\
